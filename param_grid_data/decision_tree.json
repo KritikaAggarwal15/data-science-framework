@@ -1,0 +1,6 @@
+{
+    "criterion": ["gini"],
+    "max_depth": [7,10,15,20,40,30,50],
+    "min_samples_leaf": [50,100,150],
+    "min_samples_split": [150,200,300,450]
+}

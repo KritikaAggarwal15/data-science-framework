@@ -1,0 +1,8 @@
+{
+    "kernel":["linear", "poly", "rbf"], 
+    "C":[1.0,2.0,3.0,6.0,10.0],
+    "gamma":["scale", "auto"],
+    "random_state":[100,null],
+    "degree":[2,3] 
+    
+}

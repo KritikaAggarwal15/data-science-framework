@@ -1,0 +1,6 @@
+{   "penalty":["l1","l2","none"],
+    "solver":["newton-cg", "lbfgs", "liblinear", "sag", "saga"],
+    "max_iter":[100,1000],
+    "tol":[0.001,0.0001,0.00001],
+    "random_state":[100,200,null]
+}

@@ -1,0 +1,6 @@
+{
+    "hidden_layer_sizes": [50,100,200,400,500], 
+    "max_iter": [2500,5000,7000], 
+    "solver": ["sgd","adam"], 
+    "tol": [0.01] 
+}

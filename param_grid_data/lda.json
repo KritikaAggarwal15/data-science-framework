@@ -1,0 +1,4 @@
+{
+    "solver" : ["svd", "lsqr", "eigen"],
+    "shrinkage":["auto",null]
+}
